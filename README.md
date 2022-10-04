@@ -1,4 +1,4 @@
-# flutter_clean_architecture_ismail
+# flutter_random_quotes_app_wth_clean_architecture
 
 A new Flutter project.
 
